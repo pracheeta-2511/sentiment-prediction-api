@@ -46,4 +46,4 @@ The application integrates the YouTube Data API to retrieve video comments and T
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](screenshots/dashboard.png)
