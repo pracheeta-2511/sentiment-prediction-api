@@ -43,3 +43,7 @@ The application integrates the YouTube Data API to retrieve video comments and T
 * Sentiment trend visualizations
 * Database integration for historical analysis
 * User authentication and project management
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
