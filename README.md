@@ -46,4 +46,4 @@ The application integrates the YouTube Data API to retrieve video comments and T
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](sentiment-prediction-api/screenshots/dashboard.png)
